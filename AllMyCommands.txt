@@ -1,0 +1,6 @@
+git clone https://github.com/MuhamadEssam/SE.git
+git add "file name" *3
+git commit -m
+git push
+git rm 
+git revert head
